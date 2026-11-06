@@ -387,8 +387,8 @@ The following features can be considered for future development:
 
 This project was developed by the following team members:
 
-1. Masanam Sri Venugopala Sai
-2. Tatineni Bhavya Sathya Priya
+1. Tatineni Bhavya Sathya Priya
+2. Masanam Sri Venugopala Sai
 3. Venkata Krishna Lingala
 4. Parasa Yugendhar
 
